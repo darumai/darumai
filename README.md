@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Darumai's GitHub stats](https://github-readme-stats.vercel.app/api?username=darumai&count_private=true&show_icons=true&theme=synthwave&locale=jp)
+![Darumai's GitHub stats](https://github-readme-stats.vercel.app/api?username=darumai&count_private=true&show_icons=true&theme=synthwave&locale=ja)
