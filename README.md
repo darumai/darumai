@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **darumai/darumai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Darumai's GitHub stats](https://github-readme-stats.vercel.app/api?username=darumai&count_private=true&show_icons=true&theme=gruvbox)
