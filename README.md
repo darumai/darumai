@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm 「Darumai」</h1>
 <h3 align="center">A full stack web developer</h3>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats" align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=darumai&count_private=true&show_icons=true&theme=synthwave" />
 </a>
 <h3 align="left">Connect with me:</h3>
