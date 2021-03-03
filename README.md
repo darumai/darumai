@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm 「Darumai」</h1>
 <h3 align="center">A full stack web developer</h3>
-<a href="https://github.com/anuraghazra/github-readme-stats" align="center">
+<div href="https://github.com/anuraghazra/github-readme-stats" align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=darumai&count_private=true&show_icons=true&theme=synthwave" />
-</a>
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/darumaidev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="darumaidev" height="30" width="40" /></a>
