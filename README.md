@@ -2,7 +2,7 @@
 <h3 align="center">A full stack web developer</h3>
 <div href="https://github.com/anuraghazra/github-readme-stats" align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=darumai&count_private=true&show_icons=true&theme=synthwave" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darumai&count_private=true&show_icons=true&theme=synthwavee&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darumai&count_private=true&show_icons=true&theme=synthwave&layout=compact">
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
